@@ -1,14 +1,14 @@
 # Analisi esplorativa del mercato immobiliare del Texas
 
 ## **Descrizione e obiettivi del progetto**  
-Questo progetto, realizzato durante il Master in Data Science di Profession AI, consiste nell'effettuare un'analisi esplorativa del mercato immobiliare del Texas utilizzando il linguaggio **R**. L'obiettivo è fornire all'azienda immaginaria *Texas Realty Insights* insight statistici e visivi utili per prendere decisioni strategiche basate su dati concreti, sfruttando i dati storici delle vendite immobiliari. In particolare si vogliono identificare e interpretare i trend storici delle vendite, valutare l’efficacia delle strategie di marketing delle inserzioni immobiliari e offrire una rappresentazione grafica dei dati che evidenzi la distribuzione dei prezzi e delle vendite tra città, mesi e anni.
+Questo progetto, realizzato durante il Master in Data Science di ProfessionAI, consiste nell'effettuare un'analisi esplorativa del mercato immobiliare del Texas utilizzando il linguaggio **R**. L'obiettivo è fornire all'azienda immaginaria *Texas Realty Insights* insight statistici e visivi utili per prendere decisioni strategiche basate su dati concreti, sfruttando i dati storici delle vendite immobiliari. In particolare si vogliono identificare e interpretare i trend storici delle vendite, valutare l’efficacia delle strategie di marketing delle inserzioni immobiliari e offrire una rappresentazione grafica dei dati che evidenzi la distribuzione dei prezzi e delle vendite tra città, mesi e anni.
 
 Il progetto include:  
 - Un file `.R` contenente tutto il codice eseguibile.  
 - Un documento `PDF` che spiega nel dettaglio ogni passaggio dell'analisi.  
 - Il dataset utilizzato (`Real Estate Texas.csv`).
 
-Le variabili presenti nel dataset sono: `city`, `year`, `month`, `sales`, `volume`, `median_price`, `listings` e `months_inventory`.
+Il dataset è costituito da 240 osservazioni delle seguenti variabili: `city`, `year`, `month`, `sales`, `volume`, `median_price`, `listings` e `months_inventory`.
 
 ## **Analisi effettuate**  
 - Esplorazione delle variabili e calcolo di indici statistici (posizione, variabilità, forma).
